@@ -58,4 +58,4 @@ amazon-sentiment-analyzer---mod
 
 Try the deployed application here:
 
-https://amazon-sentiment-analyzer---mod.streamlit.app
+https://amazon-sentiment-analyzer---mod-fvzhtsevdvngnfsl4kznem.streamlit.app/
